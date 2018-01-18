@@ -1,5 +1,7 @@
 # React 实战
 
+> 本开源书 forked from [React 实战](https://github.com/SFantasy/react-in-action)，作者为 [SFantasy](https://github.com/SFantasy)，欢迎大家 star 原作者的 [repo](https://github.com/SFantasy/react-in-action)，以便获得最新更新，谢谢！
+
 这是一本关于 React 的小书，主要内容为 React 方面的编程实践。
 
 欢迎开始阅读：[简介](./intro/README.md)。
